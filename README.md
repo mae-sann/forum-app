@@ -5,10 +5,6 @@ The **ForumApp** is a simple web application built using **React** and **Vite**.
 It allows users to view and share forum posts through a clean and responsive interface.  
 This project demonstrates the use of modern front-end technologies and component-based UI design.
 
-## 🌐 Live Demo
-Deployed via **Netlify**  
-🔗 [https://forumapp-charry.netlify.app](https://forumapp-charry.netlify.app)
-
 ## 👩‍💻 Author
 **Charry Mae A. Atamosa**
 
