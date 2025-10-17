@@ -5,13 +5,11 @@
   "type": "module",
   "homepage": "https://mae-sann.github.io/forum-app",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
+  "dev": "vite",
+  "build": "vite build",
+  "lint": "eslint .",
+  "preview": "vite preview"
+},
   "dependencies": {
     "axios": "^1.12.2",
     "bootstrap": "^5.3.8",
